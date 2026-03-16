@@ -33,9 +33,9 @@ The server now stores and retrieves user data directly from the database instead
 DecodeLabs-Internship-Project3
 │
 ├── README.md
-├── server.js
+├── package-lock.json
 ├── package.json
-└── package-lock.json
+└── server.js
 ```
 
 ---
