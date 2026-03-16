@@ -85,7 +85,7 @@ Example Response
    {
      "_id": "64abcd123456",
      "name": "Sangam",
-     "email": "sangam@gmail.com"
+     "email": "achsangam2004@gmail.com"
    }
  ]
 }
@@ -104,7 +104,7 @@ Request Body
 ```json
 {
  "name": "Sangam",
- "email": "sangam@gmail.com"
+ "email": "achsangam2004@gmail.com"
 }
 ```
 
@@ -116,7 +116,7 @@ Response
  "data": {
    "_id": "64abcd123456",
    "name": "Sangam",
-   "email": "sangam@gmail.com"
+   "email": "achsangam2004@gmail.com"
  }
 }
 ```
